@@ -1,0 +1,101 @@
+ID Vulnerabilidade,Aplicação,Severidade,Tipo de Falha,Data de Detecção,Data de Correção,Status,Tempo de Correção
+VULN-001,App Mobile,Médio,CSRF,2024-03-08,2024-03-09,Corrigida,1.0
+VULN-002,App Web A,Crítico,Broken Auth,2024-06-20,2024-07-09,Corrigida,19.0
+VULN-003,App Web A,Médio,Broken Auth,2024-05-11,2024-05-21,Corrigida,10.0
+VULN-004,App Web B,Baixo,XSS,2024-04-17,,Aberta,
+VULN-005,App Web A,Alto,CSRF,2024-01-29,2024-02-13,Corrigida,15.0
+VULN-006,API Interna,Médio,Broken Auth,2024-01-29,2024-02-25,Corrigida,27.0
+VULN-007,App Mobile,Baixo,SQL Injection,2024-01-11,2024-01-19,Corrigida,8.0
+VULN-008,App Web A,Médio,SQL Injection,2024-06-04,2024-06-16,Corrigida,12.0
+VULN-009,App Web A,Médio,Exposure of Secrets,2024-04-18,2024-05-10,Corrigida,22.0
+VULN-010,App Web B,Médio,CSRF,2024-05-07,2024-05-14,Corrigida,7.0
+VULN-011,App Web B,Alto,CSRF,2024-01-04,2024-01-07,Corrigida,3.0
+VULN-012,API Interna,Alto,Exposure of Secrets,2024-06-23,,Corrigida,
+VULN-013,App Mobile,Baixo,Broken Auth,2024-05-29,2024-06-07,Corrigida,9.0
+VULN-014,App Web B,Baixo,CSRF,2024-02-08,2024-02-13,Corrigida,5.0
+VULN-015,App Web A,Baixo,SQL Injection,2024-02-02,2024-02-29,Corrigida,27.0
+VULN-016,App Mobile,Baixo,SQL Injection,2024-02-03,,Corrigida,
+VULN-017,App Mobile,Médio,XSS,2024-02-24,,Aberta,
+VULN-018,App Web A,Médio,CSRF,2024-04-04,,Corrigida,
+VULN-019,App Web B,Médio,Broken Auth,2024-03-18,2024-04-11,Corrigida,24.0
+VULN-020,App Web A,Médio,Exposure of Secrets,2024-02-22,2024-03-12,Corrigida,19.0
+VULN-021,App Mobile,Médio,Exposure of Secrets,2024-04-20,2024-05-16,Corrigida,26.0
+VULN-022,Portal de Clientes,Médio,Broken Auth,2024-01-26,2024-02-19,Corrigida,24.0
+VULN-023,Portal de Clientes,Baixo,XSS,2024-02-22,2024-02-28,Corrigida,6.0
+VULN-024,API Interna,Alto,Exposure of Secrets,2024-03-06,2024-04-01,Corrigida,26.0
+VULN-025,App Web A,Alto,CSRF,2024-03-23,,Corrigida,
+VULN-026,App Web A,Crítico,XSS,2024-05-21,2024-06-06,Corrigida,16.0
+VULN-027,API Interna,Médio,CSRF,2024-02-05,,Em correção,
+VULN-028,API Interna,Crítico,SQL Injection,2024-04-02,2024-04-26,Corrigida,24.0
+VULN-029,API Interna,Médio,XSS,2024-04-16,2024-05-12,Corrigida,26.0
+VULN-030,App Mobile,Médio,Exposure of Secrets,2024-01-09,2024-01-19,Corrigida,10.0
+VULN-031,App Web A,Alto,XSS,2024-04-19,2024-04-23,Corrigida,4.0
+VULN-032,App Mobile,Médio,XSS,2024-01-31,2024-02-07,Corrigida,7.0
+VULN-033,API Interna,Crítico,XSS,2024-01-12,2024-01-25,Corrigida,13.0
+VULN-034,App Web A,Crítico,XSS,2024-06-19,2024-07-13,Corrigida,24.0
+VULN-035,App Mobile,Baixo,CSRF,2024-06-22,,Corrigida,
+VULN-036,App Mobile,Alto,SQL Injection,2024-05-25,2024-06-19,Corrigida,25.0
+VULN-037,API Interna,Alto,Broken Auth,2024-02-24,,Aberta,
+VULN-038,App Web A,Médio,XSS,2024-01-18,2024-01-19,Corrigida,1.0
+VULN-039,API Interna,Médio,Exposure of Secrets,2024-05-03,,Em correção,
+VULN-040,App Web A,Alto,XSS,2024-03-20,2024-04-04,Corrigida,15.0
+VULN-041,Portal de Clientes,Médio,Exposure of Secrets,2024-01-22,2024-02-04,Corrigida,13.0
+VULN-042,App Web B,Crítico,CSRF,2024-03-30,,Em correção,
+VULN-043,App Web B,Crítico,Exposure of Secrets,2024-01-07,2024-01-14,Corrigida,7.0
+VULN-044,App Web B,Médio,Broken Auth,2024-06-12,2024-06-16,Corrigida,4.0
+VULN-045,API Interna,Médio,SQL Injection,2024-02-16,,Aberta,
+VULN-046,Portal de Clientes,Médio,Exposure of Secrets,2024-04-29,2024-05-09,Corrigida,10.0
+VULN-047,App Web A,Médio,Exposure of Secrets,2024-02-26,2024-03-25,Corrigida,28.0
+VULN-048,App Mobile,Baixo,SQL Injection,2024-04-03,2024-04-13,Corrigida,10.0
+VULN-049,App Web A,Médio,Broken Auth,2024-04-08,2024-04-24,Corrigida,16.0
+VULN-050,App Mobile,Alto,XSS,2024-02-03,2024-02-24,Corrigida,21.0
+VULN-051,App Web A,Médio,Exposure of Secrets,2024-06-23,2024-07-04,Corrigida,11.0
+VULN-052,Portal de Clientes,Alto,SQL Injection,2024-05-19,2024-06-17,Corrigida,29.0
+VULN-053,App Mobile,Médio,CSRF,2024-06-18,2024-07-16,Corrigida,28.0
+VULN-054,API Interna,Crítico,SQL Injection,2024-06-10,2024-06-18,Corrigida,8.0
+VULN-055,App Web A,Crítico,CSRF,2024-04-17,2024-05-02,Corrigida,15.0
+VULN-056,App Web A,Baixo,Broken Auth,2024-06-14,2024-06-23,Corrigida,9.0
+VULN-057,App Mobile,Baixo,XSS,2024-01-16,2024-01-25,Corrigida,9.0
+VULN-058,API Interna,Médio,SQL Injection,2024-02-05,2024-02-07,Corrigida,2.0
+VULN-059,API Interna,Médio,Exposure of Secrets,2024-01-09,2024-01-27,Corrigida,18.0
+VULN-060,Portal de Clientes,Alto,Broken Auth,2024-02-28,,Aberta,
+VULN-061,API Interna,Alto,SQL Injection,2024-03-10,,Em correção,
+VULN-062,API Interna,Alto,Exposure of Secrets,2024-02-18,,Corrigida,
+VULN-063,API Interna,Médio,SQL Injection,2024-05-29,2024-06-13,Corrigida,15.0
+VULN-064,App Web B,Médio,CSRF,2024-03-05,,Em correção,
+VULN-065,Portal de Clientes,Médio,SQL Injection,2024-02-20,2024-02-22,Corrigida,2.0
+VULN-066,App Web A,Alto,SQL Injection,2024-04-07,2024-04-16,Corrigida,9.0
+VULN-067,App Mobile,Baixo,SQL Injection,2024-01-26,,Aberta,
+VULN-068,App Web A,Médio,Broken Auth,2024-05-24,2024-06-20,Corrigida,27.0
+VULN-069,Portal de Clientes,Médio,SQL Injection,2024-01-14,2024-01-21,Corrigida,7.0
+VULN-070,App Mobile,Médio,Exposure of Secrets,2024-06-26,,Em correção,
+VULN-071,Portal de Clientes,Médio,CSRF,2024-05-19,2024-05-24,Corrigida,5.0
+VULN-072,API Interna,Alto,CSRF,2024-02-05,2024-02-20,Corrigida,15.0
+VULN-073,App Mobile,Alto,SQL Injection,2024-01-01,2024-01-30,Corrigida,29.0
+VULN-074,API Interna,Médio,Broken Auth,2024-05-26,2024-06-03,Corrigida,8.0
+VULN-075,App Web A,Crítico,Broken Auth,2024-05-07,2024-05-27,Corrigida,20.0
+VULN-076,App Web A,Alto,Exposure of Secrets,2024-05-11,,Aberta,
+VULN-077,App Mobile,Crítico,SQL Injection,2024-05-18,2024-06-10,Corrigida,23.0
+VULN-078,App Mobile,Crítico,CSRF,2024-01-14,,Em correção,
+VULN-079,Portal de Clientes,Baixo,Broken Auth,2024-03-05,2024-03-12,Corrigida,7.0
+VULN-080,Portal de Clientes,Médio,SQL Injection,2024-01-21,2024-02-12,Corrigida,22.0
+VULN-081,API Interna,Médio,Broken Auth,2024-06-04,2024-06-15,Corrigida,11.0
+VULN-082,App Mobile,Crítico,Broken Auth,2024-04-22,2024-05-11,Corrigida,19.0
+VULN-083,App Web A,Médio,CSRF,2024-02-29,2024-03-19,Corrigida,19.0
+VULN-084,Portal de Clientes,Médio,XSS,2024-01-12,2024-01-28,Corrigida,16.0
+VULN-085,Portal de Clientes,Alto,Exposure of Secrets,2024-02-25,,Corrigida,
+VULN-086,App Web A,Médio,Exposure of Secrets,2024-02-28,2024-03-02,Corrigida,3.0
+VULN-087,Portal de Clientes,Alto,CSRF,2024-05-11,2024-06-05,Corrigida,25.0
+VULN-088,API Interna,Médio,Broken Auth,2024-04-24,2024-05-04,Corrigida,10.0
+VULN-089,App Mobile,Médio,SQL Injection,2024-06-08,,Em correção,
+VULN-090,App Web A,Crítico,Broken Auth,2024-03-25,2024-03-31,Corrigida,6.0
+VULN-091,App Mobile,Alto,CSRF,2024-01-22,2024-01-24,Corrigida,2.0
+VULN-092,Portal de Clientes,Médio,Exposure of Secrets,2024-05-08,2024-05-26,Corrigida,18.0
+VULN-093,Portal de Clientes,Médio,Broken Auth,2024-05-16,,Em correção,
+VULN-094,App Web A,Baixo,Exposure of Secrets,2024-04-11,2024-05-01,Corrigida,20.0
+VULN-095,API Interna,Médio,SQL Injection,2024-05-18,,Aberta,
+VULN-096,App Web B,Alto,Exposure of Secrets,2024-03-29,2024-03-30,Corrigida,1.0
+VULN-097,App Web A,Crítico,Exposure of Secrets,2024-04-04,2024-04-19,Corrigida,15.0
+VULN-098,App Web B,Médio,XSS,2024-03-17,2024-03-24,Corrigida,7.0
+VULN-099,App Web B,Crítico,XSS,2024-01-05,2024-01-24,Corrigida,19.0
+VULN-100,API Interna,Médio,XSS,2024-01-20,,Aberta,
